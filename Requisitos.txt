@@ -1,0 +1,15 @@
+certifi==2018.4.16
+chardet==3.0.4
+conda==4.3.16
+enum34==1.1.6
+idna==2.6
+nltk==3.2.5
+pycosat==0.6.3
+pygame==1.9.3
+requests==2.18.4
+ruamel.ordereddict==0.4.13
+ruamel.yaml==0.15.37
+six==1.11.0
+urllib3==1.22
+virtualenv==15.0.1
+virtualenvwrapper-win==1.2.5
